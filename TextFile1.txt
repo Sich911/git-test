@@ -1,0 +1,3 @@
+logic
+no logic
+absolutely no logic
